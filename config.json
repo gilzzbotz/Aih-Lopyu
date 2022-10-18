@@ -1,19 +1,19 @@
 {
-  "contactOwner": "6281567989943",
-  "ownerNumber": ["6281567989943@s.whatsapp.net"],
-  "botName": "BOT-ARIFXYZ",
-  "ownerName": "Arifxyz",
+  "contactOwner": "6288980870067",
+  "ownerNumber": ["6288980870067@s.whatsapp.net"],
+  "botName": "Siesta Beta Tes",
+  "ownerName": "Swift Developer",
   "pathimg": "./temp/logo.jpg",
-  "footer": "ARIFXYZBOT © 2022",
+  "footer": "Siesta Beta Tes © 2022",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "no found",
-      "atas_nama": "no found"
+      "nomer": "083112831554",
+      "atas_nama": "Siesta Botz"
     },
     "dana": {
-      "nomer": "6281567989943",
-      "atas_nama": "PXXX HXXXXXX"
+      "nomer": "6288980870067",
+      "atas_nama": "BAXXXXX"
     }
   }
 }

@@ -1,19 +1,19 @@
 {
-  "contactOwner": "6288980870067",
-  "ownerNumber": ["6288980870067@s.whatsapp.net"],
-  "botName": "Siesta Beta Tes",
-  "ownerName": "Swift Developer",
+  "contactOwner": "6285730794089",
+  "ownerNumber": ["6285730794089@s.whatsapp.net"],
+  "botName": "Gilzz Simpel Botz",
+  "ownerName": "Gilzz Ofc",
   "pathimg": "./temp/logo.jpg",
-  "footer": "Siesta Beta Tes © 2022",
+  "footer": "Simpel Bot © 2022",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "083112831554",
-      "atas_nama": "Siesta Botz"
+      "nomer": "085730794089",
+      "atas_nama": "Gilzz tamvan"
     },
     "dana": {
-      "nomer": "6288980870067",
-      "atas_nama": "BAXXXXX"
+      "nomer": "081241056195",
+      "atas_nama": "Agil"
     }
   }
 }
